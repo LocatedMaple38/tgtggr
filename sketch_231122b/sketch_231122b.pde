@@ -5,7 +5,7 @@ int smalerDem;
 boolean failStartUp = false;
 boolean canFitInMon = false;
 boolean landscape = false;
-boolean 
+//boolean 
 void setup(){
   size(500, 500);
   appWidth = width;
